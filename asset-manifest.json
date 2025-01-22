@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talento-tech-final/static/css/main.df7ad46d.css",
+    "main.js": "/talento-tech-final/static/js/main.e3172746.js",
+    "static/js/952.0031a5ab.chunk.js": "/talento-tech-final/static/js/952.0031a5ab.chunk.js",
+    "index.html": "/talento-tech-final/index.html",
+    "main.df7ad46d.css.map": "/talento-tech-final/static/css/main.df7ad46d.css.map",
+    "main.e3172746.js.map": "/talento-tech-final/static/js/main.e3172746.js.map",
+    "952.0031a5ab.chunk.js.map": "/talento-tech-final/static/js/952.0031a5ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7ad46d.css",
+    "static/js/main.e3172746.js"
+  ]
+}
